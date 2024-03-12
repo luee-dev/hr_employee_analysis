@@ -1,4 +1,5 @@
 # HR Employee Analysis
+![report overview](https://github.com/luee-dev/hr_employee_analysis/assets/151563449/6a9c4fa2-4806-479b-972f-e2058c8659e1)
 
 ### Table of Content
 - [HR Employee Analysis](#hr-employee-analysis)
@@ -13,6 +14,7 @@
 
 ## Project Overview
 In this data analysis project, we delve into the HR employee data to gain insights into the company's employee distribution. Our goal is to develop a comprehensive understanding of the company's employment characteristics.
+
 
 ## Data Sources
 Sales Data: The primary dataset used for this analysis is the “Human Resources.csv” file containing detailed information about employees and their details paratining the company.
